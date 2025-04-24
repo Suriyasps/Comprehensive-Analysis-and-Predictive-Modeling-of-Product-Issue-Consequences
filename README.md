@@ -98,11 +98,5 @@ Evaluated using:
 
 The XGBoost model provided the best performance and can be used to predict issue consequences effectively. This model enables early identification of critical product issues, aiding in faster resolution and strategic planning.
 
----
 
-## 🧠 Future Scope
-
-- Deploy the model into a dashboard using Shiny
-- Automate data pipeline with `RMarkdown` reports
-- Expand feature set using text analytics on issue descriptions
 
